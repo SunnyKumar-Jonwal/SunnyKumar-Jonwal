@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SunnyKumar-Jonwal</h1>
 <h3 align="center">A Passionate Front-end Developer And Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/acer/Downloads/Front-end_Developer.png">
+<img align="right" alt="Coding" width="400" src="[file:///C:/Users/acer/Downloads/Front-end_Developer.png](https://lexica.art/prompt/5ecc24bf-f3fd-4462-8ff9-2ca0a7a72bd3)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykumar-jonwal&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykumar-jonwal" /> </p>
 
