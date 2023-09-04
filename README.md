@@ -17,7 +17,7 @@
 
 - 📫 How To Reach Me **jonwalsunny768@gmail.com**
 
-- ⚡ Fun Fact **I Like To Play PC Games And Physical Games**
+- ⚡ Fun Fact **I Like To Play PC Games And Physical Games Or Solving Logical Puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
